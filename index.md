@@ -1,4 +1,4 @@
-# Latest projects:
+# Some of my favorite projects:
 - [HackerRank](https://hackerrank.com/)
 - [Orix](https://orix.com/)
 - [Addison](https://addison.com/)
