@@ -2,6 +2,7 @@
 - [Orix](https://orix.com/) - Nice case study full of animations and fully responsive with scaling. Built on WordPress.
 - [TetraScience](https://www.tetrascience.com/tetra-data) - Webflow project with SVG and JS animations.
 - [Addison](https://addison.com/) - WordPress website of a digital agency I was working at, and almost all of their web case studies were built by me.
+- [HackerRank](https://marketinghr.wpengine.com/) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
 - [Hotchkis & Wiley](https://www.hwcm.com/) - WordPress website of financial company. I built the custom plugin that parses data from Google Sheets taken from another API.
 - [iStar](https://www.istar.com/) - WordPress website containing fancy and complicated layouts.
 - [Schwarzman Scholars](https://www.schwarzmanscholars.org/) - WordPress project for non-profit organization.
@@ -9,4 +10,3 @@
 - [MSDResponsibility](https://www.msdresponsibility.com/) - Large corporate WordPress website.
 - [BlackRock AR18](https://s24.q4cdn.com/856567660/files/oar/2018/) - Website built on Middleman framework for fast delivery.
 - [BlackRock AR17](https://s24.q4cdn.com/856567660/files/oar/2017/) - Website built on Middleman framework for fast delivery.
-- [HackerRank](https://marketinghr.wpengine.com/) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
