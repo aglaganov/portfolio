@@ -9,4 +9,4 @@
 - [MSDResponsibility](https://www.msdresponsibility.com/) - Large corporate WordPress website.
 - [BlackRock AR18](https://s24.q4cdn.com/856567660/files/oar/2018/) - Website built on Middleman framework for fast delivery.
 - [BlackRock AR17](https://s24.q4cdn.com/856567660/files/oar/2017/) - Website built on Middleman framework for fast delivery.
-- [HackerRank]([https://hackerrank.com/](https://marketinghr.wpengine.com/?_gl=1*lyb1b1*_gcl_au*NTc5MzMyMDg4LjE3MzIyOTMyNjE.*_ga*NTM4MDg4MjMzLjE3MzIyOTMyNjE.*_ga_QQ5FN8NX8W*MTczODc2Nzk1Ni4zLjEuMTczODc2Nzk2Mi41NC4wLjE4NjI5MjE3NjM.)) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
+- [HackerRank]([https://hackerrank.com/](https://marketinghr.wpengine.com/?_gl=1*lyb1b1*_gcl_au*NTc5MzMyMDg4LjE3MzIyOTMyNjE.*_ga*NTM4MDg4MjMzLjE3MzIyOTMyNjE.*_ga_QQ5FN8NX8W*MTczODc2Nzk1Ni4zLjEuMTczODc2Nzk2Mi41NC4wLjE4NjI5MjE3NjM.) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
