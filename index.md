@@ -1,5 +1,4 @@
 # Some of my favorite projects:
-- [HackerRank](https://hackerrank.com/) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
 - [Orix](https://orix.com/) - Nice case study full of animations and fully responsive with scaling. Built on WordPress.
 - [TetraScience](https://www.tetrascience.com/tetra-data) - Webflow project with SVG and JS animations.
 - [Addison](https://addison.com/) - WordPress website of a digital agency I was working at, and almost all of their web case studies were built by me.
@@ -10,3 +9,4 @@
 - [MSDResponsibility](https://www.msdresponsibility.com/) - Large corporate WordPress website.
 - [BlackRock AR18](https://s24.q4cdn.com/856567660/files/oar/2018/) - Website built on Middleman framework for fast delivery.
 - [BlackRock AR17](https://s24.q4cdn.com/856567660/files/oar/2017/) - Website built on Middleman framework for fast delivery.
+- [HackerRank](https://hackerrank.com/) - WordPress/Webflow 4 instances of CMS fully built and maintained by me.
